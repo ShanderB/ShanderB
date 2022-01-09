@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
+<a href="https://www.instagram.com/shander_bonorino/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+<a href="https://www.linkedin.com/in/shander-andrade-335282195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!--
 **ShanderB/ShanderB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
