@@ -1,20 +1,58 @@
-### Hi there 👋
+### Hi 🖥️
+
+<!--Resume-->
+
+Hey!! I'm a **FullStack Junior Developer** at Betha Sistemas.
 
 
-<a href="https://www.instagram.com/shander_bonorino/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
-<a href="https://www.linkedin.com/in/shander-andrade-335282195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+#### Experience:
+```diff
+
++ Betha Sistemas | Dez/2020 - ####
++  | FullStack Junior Developer | Ago/2021
+-  | Systems Deployment Analyst | Dez/2020 (8 Months)
+
+- Tribunal de Contas do Estado do Piauí | Jan/2016 - Dez/2020 (4 Years 11 Months)
+- | IT Technical Support
+
+```
 
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" width="0.95em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 272">
-    <path d="M.1 45.522L125.908.697l129.196 44.028l-20.919 166.45l-108.277 59.966l-106.583-59.169L.1 45.522z" fill="#E23237"></path>
-    <path d="M255.104 44.725L125.908.697v270.444l108.277-59.866l20.919-166.55z" fill="#B52E31"></path>
-    <path d="M126.107 32.274L47.714 206.693l29.285-.498l15.739-39.347h70.325l17.233 39.845l27.99.498l-82.179-174.917zm.2 55.882l26.496 55.383h-49.806l23.31-55.383z" fill="#FFF"></path>
-</svg>
+#### Social:
+<a href="https://www.linkedin.com/in/shander-andrade-335282195/" target="_blank"><img src=".\svgs\linkedin.svg" alt=""></a>
+<a href="mailto:s.hander8910@hotmail.com" target="_blank"><img src=".\svgs\email.svg" alt=""></a>
+<a href="https://www.instagram.com/shander_bonorino" target="_blank"><img src=".\svgs\instagram.svg" alt=""></a>
+
+<!--Knowledge-->
+#### I have knowledge with:
+
+###### **Languages**
+<a><img src=".\svgs\java.svg" alt=""></a>
+<a><img src=".\svgs\node.svg" alt=""></a>
+
+<a><img src=".\svgs\angularJS.svg" alt=""></a>
+<a><img src=".\svgs\git.svg" alt=""></a>
+<a><img src=".\svgs\html.svg" alt=""></a>
+<a><img src=".\svgs\maven.svg" alt=""></a>
+<a><img src=".\svgs\mongodb.svg" alt=""></a>
+<a><img src=".\svgs\spring.svg" alt=""></a>
+<a><img src=".\svgs\vue.svg" alt=""></a>
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanderB&theme=blue-green" alt="">
-<img src="https://starchart.cc/ShanderB/twitterAPI.svg" alt="">
+
+<!--Contact-->
+
+
+
+
+
+<!--Languages Usage-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanderB&layout=compact" alt="">
 
 
 
@@ -24,17 +62,6 @@
 
 
 
-<!--
-**ShanderB/ShanderB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
