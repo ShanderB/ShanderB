@@ -10,7 +10,7 @@ Hey!! 🖥️ <br>
 #### Social:
 <a href="https://www.linkedin.com/in/shander-andrade-335282195/" target="_blank"><img src=".\svgs\linkedin.svg" alt=""></a>
 <a href="https://www.instagram.com/shander_bonorino" target="_blank"><img src=".\svgs\instagram.svg" alt=""></a>
-<a href="mailto:s.hander8910@hotmail.com" target="_blank"><img src=".\svgs\email.svg" alt=""></a>
+<a href="mailto:s.hander8910@hotmail.com"><img src=".\svgs\email.svg" alt=""></a>
 
 
 #### Experience:
@@ -46,6 +46,11 @@ Hey!! 🖥️ <br>
 <a><img title="Junit" src=".\svgs\junit.svg" alt=""></a>
 
 
+LiquidBase
+
+MVC
+SOLID
+SPA
 
 ###### **Database**
 <a><img title="PostgreSQL" src=".\svgs\postgres.svg" alt=""></a>
@@ -69,9 +74,3 @@ Hey!! 🖥️ <br>
 
 <!--Languages Usage-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanderB&layout=compact" alt="">
-
-<!-- LiquidBase
-
-MVC
-SOLID
-SPA -->
