@@ -79,3 +79,5 @@ SPA
 
 <!--Languages Usage-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanderB&layout=compact">
+
+<sup><sub> Last Update: 09/01/2021 </sup></sub>
