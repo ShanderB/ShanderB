@@ -22,7 +22,7 @@ Hey!! 🖥️ <br>
 -  | Systems Deployment Analyst | Dez/2020 (8 Months)
 
 - Tribunal de Contas do Estado do Piauí | Jan/2016 - Dez/2020 (4 Years 11 Months)
-- | IT Technical Support
+-  | IT Technical Support
 
 ```
 
