@@ -38,7 +38,11 @@ Hey!! 🖥️ <br>
 ###### **Java Script Frameworks**
 <a><img title="AngularJS" src=".\svgs\angularJS.svg"></a>
 <a><img title="Vue.JS" src=".\svgs\vue.svg"></a>
-<a><img title="MongoDB" src=".\svgs\mongodb.svg"></a>
+```
+Handlebars
+Express
+```
+
 
 ###### **Java Frameworks**
 <a><img title="Maven" src=".\svgs\maven.svg"></a>
@@ -50,6 +54,10 @@ Hey!! 🖥️ <br>
 <a><img title="PostgreSQL" src=".\svgs\postgres.svg"></a>
 <a><img title="MySQL" src=".\svgs\mysql.svg"></a>
 <a><img title="Elastic Search" src=".\svgs\elasticsearch.svg"></a>
+<a><img title="MongoDB" src=".\svgs\mongodb.svg"></a>
+```
+Liquibase
+```
 
 ###### **Miscellaneous**
 <a><img title="Git" src=".\svgs\git.svg"></a>
@@ -58,9 +66,6 @@ Hey!! 🖥️ <br>
 <a><img title="Docker" src=".\svgs\docker.svg"></a>
 <a><img title="Postman" src=".\svgs\postman.svg"></a>
 <a><img title="Insomnia" src=".\svgs\insomnia.svg"></a>
-```
-Liquibase
-```
 
 ###### **Pattern**
 ```
@@ -82,4 +87,4 @@ SPA
 <!--Languages Usage-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanderB&layout=compact">
 
-<sup><sub> Last Update: 09/01/2021 </sup></sub>
+<sup><sub> Last Update: 10/01/2021 </sup></sub>
