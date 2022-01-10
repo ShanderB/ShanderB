@@ -8,9 +8,9 @@ Hey!! 🖥️ <br>
  
  <!--Contact-->
 #### Social:
-<a href="https://www.linkedin.com/in/shander-andrade-335282195/" target="_blank"><img src=".\svgs\linkedin.svg" alt=""></a>
-<a href="https://www.instagram.com/shander_bonorino" target="_blank"><img src=".\svgs\instagram.svg" alt=""></a>
-<a href="mailto:s.hander8910@hotmail.com"><img src=".\svgs\email.svg" alt=""></a>
+<a href="https://www.linkedin.com/in/shander-andrade-335282195/" target="_blank"><img title="Linkedin" src=".\svgs\linkedin.svg" alt=""></a>
+<a href="https://www.instagram.com/shander_bonorino" target="_blank"><img title="Instagram" src=".\svgs\instagram.svg" alt=""></a>
+<a href="mailto:s.hander8910@hotmail.com"><img title="E-mail" src=".\svgs\email.svg" alt=""></a>
 
 
 #### Experience:
