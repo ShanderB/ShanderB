@@ -46,11 +46,6 @@ Hey!! 🖥️ <br>
 <a><img title="Junit" src=".\svgs\junit.svg" alt=""></a>
 
 
-LiquidBase
-
-MVC
-SOLID
-SPA
 
 ###### **Database**
 <a><img title="PostgreSQL" src=".\svgs\postgres.svg" alt=""></a>
@@ -74,3 +69,9 @@ SPA
 
 <!--Languages Usage-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanderB&layout=compact" alt="">
+
+<!-- LiquidBase
+
+MVC
+SOLID
+SPA -->
