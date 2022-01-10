@@ -27,7 +27,7 @@ Hey!! 🖥️ <br>
 
 
 <!--Knowledge-->
-#### I have knowledge with:
+#### I am familiar with:
 
 ###### **Languages**
 <a><img title="JAVA" src=".\svgs\java.svg" alt=""></a>
