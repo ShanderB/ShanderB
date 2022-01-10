@@ -53,6 +53,7 @@ Hey!! 🖥️ <br>
 ###### **Miscellaneous**
 <a><img title="Git" src=".\svgs\git.svg"></a>
 <a><img title="HTML" src=".\svgs\html.svg"></a>
+<a><img title="CSS" src=".\svgs\css.svg"></a>
 <a><img title="Docker" src=".\svgs\docker.svg"></a>
 <a><img title="Postman" src=".\svgs\postman.svg"></a>
 <a><img title="Insomnia" src=".\svgs\insomnia.svg"></a>
