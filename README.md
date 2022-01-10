@@ -45,13 +45,6 @@ Hey!! 🖥️ <br>
 <a><img title="Hibernate" src=".\svgs\hibernate.svg" alt=""></a>
 <a><img title="Junit" src=".\svgs\junit.svg" alt=""></a>
 
-
-LiquidBase
-
-MVC
-SOLID
-SPA
-
 ###### **Database**
 <a><img title="PostgreSQL" src=".\svgs\postgres.svg" alt=""></a>
 <a><img title="MySQL" src=".\svgs\mysql.svg" alt=""></a>
@@ -63,6 +56,16 @@ SPA
 <a><img title="Docker" src=".\svgs\docker.svg" alt=""></a>
 <a><img title="Postman" src=".\svgs\postman.svg" alt=""></a>
 <a><img title="Insomnia" src=".\svgs\insomnia.svg" alt=""></a>
+
+###### **Pattern**
+```
+Restful
+Liquibase
+MVC
+SOLID
+SPA
+```
+
 
 
 
