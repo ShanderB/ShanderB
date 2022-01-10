@@ -1,8 +1,16 @@
-### Hi 🖥️
+### Nice to see you! ☺️
 
 <!--Resume-->
 
-Hey!! I'm a **FullStack Junior Developer** at Betha Sistemas.
+Hey!! 🖥️ <br>
+ _I'm a **FullStack Junior Developer** at Betha Sistemas._
+ 
+ 
+ <!--Contact-->
+#### Social:
+<a href="https://www.linkedin.com/in/shander-andrade-335282195/" target="_blank"><img src=".\svgs\linkedin.svg" alt=""></a>
+<a href="https://www.instagram.com/shander_bonorino" target="_blank"><img src=".\svgs\instagram.svg" alt=""></a>
+<a href="mailto:s.hander8910@hotmail.com" target="_blank"><img src=".\svgs\email.svg" alt=""></a>
 
 
 #### Experience:
@@ -18,34 +26,47 @@ Hey!! I'm a **FullStack Junior Developer** at Betha Sistemas.
 ```
 
 
-#### Social:
-<a href="https://www.linkedin.com/in/shander-andrade-335282195/" target="_blank"><img src=".\svgs\linkedin.svg" alt=""></a>
-<a href="mailto:s.hander8910@hotmail.com" target="_blank"><img src=".\svgs\email.svg" alt=""></a>
-<a href="https://www.instagram.com/shander_bonorino" target="_blank"><img src=".\svgs\instagram.svg" alt=""></a>
-
 <!--Knowledge-->
 #### I have knowledge with:
 
 ###### **Languages**
-<a><img src=".\svgs\java.svg" alt=""></a>
-<a><img src=".\svgs\node.svg" alt=""></a>
+<a><img title="JAVA" src=".\svgs\java.svg" alt=""></a>
+<a><img title="Node.JS" src=".\svgs\node.svg" alt=""></a>
+<a><img title="Groovy" src=".\svgs\groovy.svg" alt=""></a>
 
-<a><img src=".\svgs\angularJS.svg" alt=""></a>
-<a><img src=".\svgs\git.svg" alt=""></a>
-<a><img src=".\svgs\html.svg" alt=""></a>
-<a><img src=".\svgs\maven.svg" alt=""></a>
-<a><img src=".\svgs\mongodb.svg" alt=""></a>
-<a><img src=".\svgs\spring.svg" alt=""></a>
-<a><img src=".\svgs\vue.svg" alt=""></a>
+###### **Java Script Frameworks**
+<a><img title="AngularJS" src=".\svgs\angularJS.svg" alt=""></a>
+<a><img title="Vue.JS" src=".\svgs\vue.svg" alt=""></a>
+<a><img title="MongoDB" src=".\svgs\mongodb.svg" alt=""></a>
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
-
-
+###### **Java Frameworks**
+<a><img title="Maven" src=".\svgs\maven.svg" alt=""></a>
+<a><img title="Spring" src=".\svgs\spring.svg" alt=""></a>
+<a><img title="Hibernate" src=".\svgs\hibernate.svg" alt=""></a>
+<a><img title="Junit" src=".\svgs\junit.svg" alt=""></a>
 
 
-<!--Contact-->
+LiquidBase
+
+MVC
+SOLID
+SPA
+
+###### **Database**
+<a><img title="PostgreSQL" src=".\svgs\postgres.svg" alt=""></a>
+<a><img title="MySQL" src=".\svgs\mysql.svg" alt=""></a>
+<a><img title="Elastic Search" src=".\svgs\elasticsearch.svg" alt=""></a>
+
+###### **Miscellaneous**
+<a><img title="Git" src=".\svgs\git.svg" alt=""></a>
+<a><img title="HTML" src=".\svgs\html.svg" alt=""></a>
+<a><img title="Docker" src=".\svgs\docker.svg" alt=""></a>
+<a><img title="Postman" src=".\svgs\postman.svg" alt=""></a>
+<a><img title="Insomnia" src=".\svgs\insomnia.svg" alt=""></a>
+
+
+
+
 
 
 
@@ -53,15 +74,3 @@ Hey!! I'm a **FullStack Junior Developer** at Betha Sistemas.
 
 <!--Languages Usage-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanderB&layout=compact" alt="">
-
-
-
-
-
-
-
-
-
-
-
-
