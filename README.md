@@ -49,6 +49,7 @@ Hey!! 🖥️ <br>
 <a><img title="PostgreSQL" src=".\svgs\postgres.svg" alt=""></a>
 <a><img title="MySQL" src=".\svgs\mysql.svg" alt=""></a>
 <a><img title="Elastic Search" src=".\svgs\elasticsearch.svg" alt=""></a>
+<a><img title="Kibana" src=".\svgs\kibana.svg" alt=""></a>
 
 ###### **Miscellaneous**
 <a><img title="Git" src=".\svgs\git.svg" alt=""></a>
