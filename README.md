@@ -49,7 +49,6 @@ Hey!! 🖥️ <br>
 <a><img title="PostgreSQL" src=".\svgs\postgres.svg" alt=""></a>
 <a><img title="MySQL" src=".\svgs\mysql.svg" alt=""></a>
 <a><img title="Elastic Search" src=".\svgs\elasticsearch.svg" alt=""></a>
-<a><img title="Liquibase" src=".\svgs\liquibase.svg" alt=""></a>
 
 ###### **Miscellaneous**
 <a><img title="Git" src=".\svgs\git.svg" alt=""></a>
@@ -57,11 +56,13 @@ Hey!! 🖥️ <br>
 <a><img title="Docker" src=".\svgs\docker.svg" alt=""></a>
 <a><img title="Postman" src=".\svgs\postman.svg" alt=""></a>
 <a><img title="Insomnia" src=".\svgs\insomnia.svg" alt=""></a>
+```
+Liquibase
+```
 
 ###### **Pattern**
 ```
 Restful
-Liquibase
 MVC
 SOLID
 SPA
