@@ -3,7 +3,7 @@
 <!--Resume-->
 
 Hey!! 🖥️ <br>
- _I'm a **FullStack Junior Developer** at Betha Sistemas._
+ _I'm a **Junior Developer**._
  
 <sup><sub> Hover the icons to see the name </sup></sub>
  
