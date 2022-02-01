@@ -17,8 +17,8 @@ Hey!! 🖥️ <br>
 #### Experience:
 ```diff
 
-+ Betha Sistemas | Dez/2020
-+  | FullStack Junior Developer | Ago/2021 - Jan/2022
+- Betha Sistemas | Dez/2020
+-  | FullStack Junior Developer | Ago/2021 - Jan/2022
 -  | Systems Deployment Analyst | Dez/2020 - Ago/2021 (8 Months)
 
 - Tribunal de Contas do Estado do Piauí | Jan/2016 - Dez/2020 (4 Years 11 Months)
