@@ -16,9 +16,11 @@ Hey!! 🖥️ <br>
 
 #### Experience:
 ```diff
++ Act Digital | Feb/2022 - ####
++  | Front-end Junior Developer | Feb/2022 - ####
 
-- Betha Sistemas | Dez/2020
--  | FullStack Junior Developer | Ago/2021 - Jan/2022
+- Betha Sistemas | Dez/2020 - Feb/2022 (1 Year 2 Months)
+-  | FullStack Junior Developer | Ago/2021 - Feb/2022 (6 Months)
 -  | Systems Deployment Analyst | Dez/2020 - Ago/2021 (8 Months)
 
 - Tribunal de Contas do Estado do Piauí | Jan/2016 - Dez/2020 (4 Years 11 Months)
