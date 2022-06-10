@@ -55,7 +55,6 @@ Express
 ###### **Database**
 <a><img title="PostgreSQL" src=".\svgs\postgres.svg"></a>
 <a><img title="MySQL" src=".\svgs\mysql.svg"></a>
-<a><img title="Elastic Search" src=".\svgs\elasticsearch.svg"></a>
 <a><img title="MongoDB" src=".\svgs\mongodb.svg"></a>
 ```
 Liquibase
