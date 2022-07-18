@@ -3,7 +3,7 @@
 <!--Resume-->
 
 Hey!! 🖥️ <br>
- _I'm a **Junior Developer**._
+ _I'm a **FullStack Developer**._
  
 <sup><sub> Hover the icons to see the name </sup></sub>
  
@@ -17,7 +17,8 @@ Hey!! 🖥️ <br>
 #### Experience:
 ```diff
 + Act Digital | Feb/2022 - ####
-+  | Front-end Junior Developer | Feb/2022 - ####
++  | Front-end Mid-Level Developer | Jul/2022 - ####
++  | Front-end Junior Developer | Feb/2022 - Jul/2022
 
 - Betha Sistemas | Dez/2020 - Feb/2022 (1 Year 2 Months)
 -  | FullStack Junior Developer | Ago/2021 - Feb/2022 (6 Months)
