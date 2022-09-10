@@ -9,8 +9,8 @@ Hey!! 🖥️ <br>
  
  <!--Contact-->
 #### Social:
-<a href="https://www.linkedin.com/in/shander-andrade-335282195/" target="_blank"><img title="Linkedin" src=".\svgs\linkedin.svg"></a>
-<a href="https://www.instagram.com/shander_bonorino" target="_blank"><img title="Instagram" src=".\svgs\instagram.svg"></a>
+<code><a href="https://www.linkedin.com/in/shander-andrade-335282195/" target="_blank"><img title="Linkedin" src=".\svgs\linkedin.svg"></a></code>
+<code><a href="https://www.instagram.com/shander_bonorino" target="_blank"><img title="Instagram" src=".\svgs\instagram.svg"></a></code>
 <a href="mailto:s.hander8910@hotmail.com"><img title="E-mail" src=".\svgs\email.svg"></a>
 
 
@@ -34,13 +34,13 @@ Hey!! 🖥️ <br>
 #### I am familiar with:
 
 ###### **Languages**
-<a><img title="JAVA" src=".\svgs\java.svg"></a>
-<a><img title="Node.JS" src=".\svgs\node.svg"></a>
-<a><img title="Groovy" src=".\svgs\groovy.svg"></a>
+<code><a><img title="JAVA" src=".\svgs\java.svg"></a></code>
+<code><a><img title="Node.JS" src=".\svgs\node.svg"></a></code>
+<code><a><img title="Groovy" src=".\svgs\groovy.svg"></a></code>
 
 ###### **Java Script Frameworks**
-<a><img title="AngularJS" src=".\svgs\angularJS.svg"></a>
-<a><img title="Vue.JS" src=".\svgs\vue.svg"></a>
+<code><a><img title="AngularJS" src=".\svgs\angularJS.svg"></a></code>
+<code><a><img title="Vue.JS" src=".\svgs\vue.svg"></a></code>
 ```
 Handlebars
 Express
@@ -49,25 +49,25 @@ Express
 
 ###### **Java Frameworks**
 <a><img title="Maven" src=".\svgs\maven.svg"></a>
-<a><img title="Spring" src=".\svgs\spring.svg"></a>
-<a><img title="Hibernate" src=".\svgs\hibernate.svg"></a>
+<code><a><img title="Spring" src=".\svgs\spring.svg"></a></code>
+<code><a><img title="Hibernate" src=".\svgs\hibernate.svg"></a></code>
 <a><img title="Junit" src=".\svgs\junit.svg"></a>
 
 ###### **Database**
-<a><img title="PostgreSQL" src=".\svgs\postgres.svg"></a>
-<a><img title="MySQL" src=".\svgs\mysql.svg"></a>
-<a><img title="MongoDB" src=".\svgs\mongodb.svg"></a>
+<code><a><img title="PostgreSQL" src=".\svgs\postgres.svg"></a></code>
+<code><a><img title="MySQL" src=".\svgs\mysql.svg"></a></code>
+<code><a><img title="MongoDB" src=".\svgs\mongodb.svg"></a></code>
 ```
 Liquibase
 ```
 
 ###### **Miscellaneous**
-<a><img title="Git" src=".\svgs\git.svg"></a>
-<a><img title="HTML" src=".\svgs\html.svg"></a>
-<a><img title="CSS" src=".\svgs\css.svg"></a>
-<a><img title="Docker" src=".\svgs\docker.svg"></a>
-<a><img title="Postman" src=".\svgs\postman.svg"></a>
-<a><img title="Insomnia" src=".\svgs\insomnia.svg"></a>
+<code><a><img title="Git" src=".\svgs\git.svg"></a></code>
+<code><a><img title="HTML" src=".\svgs\html.svg"></a></code>
+<code><a><img title="CSS" src=".\svgs\css.svg"></a></code>
+<code><a><img title="Docker" src=".\svgs\docker.svg"></a></code>
+<code><a><img title="Postman" src=".\svgs\postman.svg"></a></code>
+<code><a><img title="Insomnia" src=".\svgs\insomnia.svg"></a></code>
 
 ###### **Pattern**
 ```
