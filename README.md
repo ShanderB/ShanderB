@@ -10,7 +10,7 @@ Hey!! 🖥️ <br>
  <!--Contact-->
 #### Social:
 <code><a href="https://www.linkedin.com/in/shander-andrade-335282195/" target="_blank"><img title="Linkedin" src=".\svgs\linkedin.svg"></a></code>
-<a href="mailto:s.hander8910@hotmail.com"><img title="E-mail" src=".\svgs\email.svg"></a>
+<code><a href="mailto:s.hander8910@hotmail.com"><img title="E-mail" src=".\svgs\email.svg"></a></code>
 
 
 #### Experience:
