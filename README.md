@@ -15,9 +15,12 @@ Hey!! 🖥️ <br>
 
 #### Experience:
 ```diff
-+ Act Digital | Feb/2022 - ####
-+  | Front-end Mid-Level Developer | Jul/2022 - ####
-+  | Front-end Junior Developer | Feb/2022 - Jul/2022
++ QAT Global | Oct/2022 - ####
++ | Full-stack Mid-Level Developer | Oct/2022 - ####
+
+- Act Digital | Feb/2022 - Oct/2022 (9 Months)
+-  | Front-end Mid-Level Developer | Jul/2022 - ####
+-  | Front-end Junior Developer | Feb/2022 - Jul/2022
 
 - Betha Sistemas | Dez/2020 - Feb/2022 (1 Year 2 Months)
 -  | FullStack Junior Developer | Ago/2021 - Feb/2022 (6 Months)
