@@ -89,6 +89,6 @@ SPA
 
 
 <!--Languages Usage-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanderB&layout=compact">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShanderB&layout=compact">
 
 <sup><sub> Last Update: 15/10/2022 </sup></sub>
