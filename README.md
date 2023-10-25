@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanderb&theme=dark&rank=SECRECT,SSS,SS,S,AAA,AA,A,B,C&column=-1&no-bg=true&margin-w=15" alt="shanderb" /></a> </p>
 
 <h3>Keep in touch:</h3>
+<a href="https://www.linkedin.com/in/shander-andrade-335282195" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077b7.svg?style=for-the-badge&logo=Linkedin"/></a>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077b7.svg?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/shander-andrade-335282195/)
 
