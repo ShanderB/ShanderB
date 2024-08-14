@@ -11,7 +11,7 @@
 
 Back-end:<br>
 ![Node.js](https://img.shields.io/badge/Node.js-689f63.svg?style=for-the-badge&logo=nodedotjs&color=3e863d&logoColor=white) 
-![Java](https://img.shields.io/badge/java%208%2F9%2F11%2F14-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black) 
+![Java](https://img.shields.io/badge/java%208%2F9%2F11%2F14%2F21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black) 
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=orange) 
@@ -21,7 +21,7 @@ Back-end:<br>
 ![Mockito](https://img.shields.io/badge/Mockito-7F9942.svg?style=for-the-badge&logo=Mockito) 
 
 Front-end:<br>
-![Angular](https://img.shields.io/badge/angular%204%2F11%2F12%2F13%2F14%2F15-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular%204%2F6%2F8%2F9%2F11%2F12%2F13%2F14%2F15%2F16%2F18-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) 
