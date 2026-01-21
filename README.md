@@ -41,8 +41,6 @@
 <h1 align="center">Hey, I'm Shander. 😊</h1>
 <h3 align="center">I'm a passionate Full-stack developer that loves to learn. I started working with programming in 2016!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanderb&theme=darkhub&rank=SECRECT,SSS,SS,S,AAA,AA,A,B,C&column=-1&no-bg=true&margin-w=15" alt="shanderb" /></a> </p>
-
 <h3>Keep in touch:</h3>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077b7.svg?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/shander-andrade-335282195/)
